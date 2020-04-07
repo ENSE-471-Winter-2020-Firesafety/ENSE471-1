@@ -2,7 +2,7 @@
 
 ENSE471 project delivers include the development document.
 
-The phone application is used for ios system.
+The phone application can do 911 call simulation.
 
 The source code link in git: https://github.com/moehared/FireAwareness.git
 
