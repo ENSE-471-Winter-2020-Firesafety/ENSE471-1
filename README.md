@@ -1,7 +1,9 @@
 # ENSE471 Project Delivers
 
 ENSE471 project delivers include the development document.
-The phone application is used for ios system
+
+The phone application is used for ios system.
+
 The source code link in git: https://github.com/moehared/FireAwareness.git
 
 ## Installation
