@@ -14,3 +14,5 @@ Using the Xcode to make a new project with clone git link which will automatical
 
 Then, clicking button at left top corner to run the project on the ios simulator which will complie the code, install application on the simulator and run the application
 (If you are first time using the Xcode, you might need to download one simulator at first)
+
+![Image text](https://raw.githubusercontent.com/Nick-liu666/ENSE471/master/image/start%20button.png)
