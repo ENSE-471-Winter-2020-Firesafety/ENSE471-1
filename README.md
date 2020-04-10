@@ -10,8 +10,8 @@ The source code link in git: https://github.com/moehared/FireAwareness.git
 
 Using the Xcode to make a new project with clone git link which will automatically pull the source code form git.(Xcode is a Apple's develpment tool for ios. Xcode can freely download from apple store in Mac)
 
-![image](http://github.com/Nick-liu666/ENSE471/blob/master/image/clone.png)
-https://github.com/Nick-liu666/ENSE471/blob/master/image/clone.png
+![image](http://github.com/Nick-liu666/ENSE471/raw/master/image/clone.png)
+https://github.com/Nick-liu666/ENSE471/raw/master/image/clone.png
 https://github.com/Nick-liu666/ENSE471/blob/master/image/clone.png
 (http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
 ![image](https://github.com/TouchDreamRen/PersonalPage/raw/master/screenshots/screenshot.png)
