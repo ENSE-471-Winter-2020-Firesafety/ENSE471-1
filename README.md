@@ -8,7 +8,7 @@ The source code link in git: https://github.com/moehared/FireAwareness.git
 
 ## Installation
 
-Using the Xcode to make a new project with clone git link which will automatically pull the source code form git.(Xcode is a Apple's develpment tool for ios. Xcode can freely download from apple store in Mac)
+Using the Xcode to make a new project with clone git link (https://github.com/moehared/FireAwareness.git) which will automatically pull the source code form git.(Xcode is a Apple's develpment tool for ios. Xcode can freely download from apple store in Mac)
 
 ![Image text](https://raw.githubusercontent.com/Nick-liu666/ENSE471/master/image/clone.png)
 
